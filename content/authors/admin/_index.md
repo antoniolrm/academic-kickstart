@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Antonio Manesco
 
 # Username (this should match the folder name)
 authors:
@@ -10,26 +10,23 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Doctorate fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of São Paulo
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interest is Condensed Matter Physics
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Graphene
+- Mesoscopic superconducivity
+- van der Waals heterostructures
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
